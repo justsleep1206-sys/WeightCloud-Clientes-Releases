@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "notes": "Version 1.0.0 - Primera Version de WeightCloud-Clientes",
-  "pub_date": "2026-09-07T18:15:00Z",
+  "pub_date": "2026-09-07T18:17:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/justsleep1206-sys/WeightCloud-Clientes-Releases/releases/download/v1.0.0/WeightCloud-Clientes_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekJDTG94ZnVwTVNtUE1BVk5QdEl2ODBDd25MTTZSb0cvYklUVGd0RlFiQnJiOGI2cUM4TTlMUVBmbUxzMXlmdStzVEtGQ1B2RFYzUEhJYkJDcmZaZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE5Mzk5CWZpbGU6d2VpZ2h0Y2xvdWQtY2xpZW50ZXNfMS4wLjBfeDY0LXNldHVwLmV4ZQpMZWlrUjY5Ti93SmtUaWs2bGRLd1ZSYnNDUEpHQnZFNVQ0Nk83REFCR3dBZStyNGx5d3U2TVc3d0FDMFJlNnlMaGdGNW1iSUFnQ1JRcDV2NG56Uk5EQT09Cg==",
+      "url": "https://github.com/justsleep1206-sys/WeightCloud-Clientes-Releases/releases/download/v1.0.0/weightcloud-clientes_1.0.0_x64-setup.exe"
     }
   }
 }
