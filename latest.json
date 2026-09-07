@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Version 1.0.0 - Primera Version de WeightCloud-Clientes",
+  "pub_date": "2026-09-07T18:15:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/justsleep1206-sys/WeightCloud-Clientes-Releases/releases/download/v1.0.0/WeightCloud-Clientes_1.0.0_x64-setup.exe"
+    }
+  }
+}
