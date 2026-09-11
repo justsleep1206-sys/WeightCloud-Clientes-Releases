@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Version 1.0.0 - Primera Version de WeightCloud-Clientes",
-  "pub_date": "2026-09-07T18:17:00Z",
+  "version": "1.1.0",
+  "notes": "Version 1.1.0 - Arreglo de errores",
+  "pub_date": "2026-09-11T18:39:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekJDTG94ZnVwTVNtUE1BVk5QdEl2ODBDd25MTTZSb0cvYklUVGd0RlFiQnJiOGI2cUM4TTlMUVBmbUxzMXlmdStzVEtGQ1B2RFYzUEhJYkJDcmZaZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE5Mzk5CWZpbGU6d2VpZ2h0Y2xvdWQtY2xpZW50ZXNfMS4wLjBfeDY0LXNldHVwLmV4ZQpMZWlrUjY5Ti93SmtUaWs2bGRLd1ZSYnNDUEpHQnZFNVQ0Nk83REFCR3dBZStyNGx5d3U2TVc3d0FDMFJlNnlMaGdGNW1iSUFnQ1JRcDV2NG56Uk5EQT09Cg==",
-      "url": "https://github.com/justsleep1206-sys/WeightCloud-Clientes-Releases/releases/download/v1.0.0/weightcloud-clientes_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXektVcm1nSjRYL0l6VjVWT3V6L3VJcjNWMWNvYXpBM3AyOEVqMlNhWEVsWDU5UVN0ZGxNUWpJVmdnYXI5WXltUHFzQXBjemRRa0VHWDRLeGZJUDZDVXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTY2MjE0CWZpbGU6d2VpZ2h0Y2xvdWQtY2xpZW50ZXNfMS4xLjBfeDY0LXNldHVwLmV4ZQo5N1ZOVW1uK0lQcDVDZ3c3dnZmL3RLUW9IcCtFUDJiaGI4bEJ5M1lobHMxaHhLdWJZTmVIRUVsdHBkekRXTVF1a21XVEN0b0x2ckp0RTM1MXlpK3REQT09Cg==",
+      "url": "https://github.com/justsleep1206-sys/WeightCloud-Clientes-Releases/releases/download/v1.1.0/weightcloud-clientes_1.1.0_x64-setup.exe"
     }
   }
 }
